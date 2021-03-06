@@ -4,3 +4,4 @@ classfriends={"rekhin","kp",'Mosi'}
 print(classfriends.difference(friends))
 print("Hellow world")
 print("jephin was here")
+print("shambu")
